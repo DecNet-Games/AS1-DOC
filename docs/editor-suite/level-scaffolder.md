@@ -17,6 +17,8 @@ The **Level Scaffolder** (`TabLevelScaffolder.cs`) generates turnkey shooter com
 - **Drop-in Core Prefabs**: Automatically instantiates the `Managers`, `GameCanvas`, `MainCamera`, `ThirdPersonCamera`, `AimCamera`, and `Player` prefabs.
 - **Bounds & Spawner Setup**: Creates perimeter boundary colliders and assigns pre-configured `ZombieSpawner` volumes.
 
+![Night Environment Gameplay Calibration]({{ site.baseurl }}/assets/images/sector07-night-gameplay.png)
+
 ---
 
 ## How to Scaffold a New Level

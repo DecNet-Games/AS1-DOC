@@ -64,8 +64,8 @@ graph TD
     end
 ```
 
-### In-Engine Gameplay Preview
-![In-Engine Gameplay View]({{ site.baseurl }}/assets/images/sector07-hero.png)
+### Sector 07 Proving Grounds Overview
+![Sector 07 Proving Grounds]({{ site.baseurl }}/assets/images/sector07-hero.png)
 
 ---
 

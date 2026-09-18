@@ -10,6 +10,8 @@ permalink: /docs/weapons-and-ballistics/
 
 The AS1 weapon system is designed around data-driven ScriptableObjects, physics-based procedural recoil, raycast ballistics with surface-aware decal placement, and seamless dual-slot weapon management.
 
+![Armory Weapon Counters & Displays]({{ site.baseurl }}/assets/images/armory-weapon-racks.png)
+
 ---
 
 ## Ballistic Pipeline

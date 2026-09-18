@@ -15,20 +15,25 @@ This guide takes you through launching the Sector 07 proving grounds and validat
 
 In your Unity Project view, navigate to:
 ```text
-Assets/AS1/Scenes/TestingDemo.unity
+Assets/AS1/Scenes/MainMenu.unity
 ```
 Double-click to open the scene, then press the **Play** button in the Unity Editor toolbar.
 
-![Sector 07 Proving Grounds]({{ site.baseurl }}/assets/images/sector07-hero.png)
+![AS1 Main Menu Operations]({{ site.baseurl }}/assets/images/as1-main-menu-ui.png)
+
+You can launch directly into **Play Day Operations** (`TestingDemo.unity`) or **Play Night Operations** (`TestingDemo_Night.unity`).
 
 ---
 
 ## Step-by-Step Gameplay Route
 
 ### 1. The Weapons Gallery (Station 01)
-- You spawn in the forward staging area.
+- You spawn facing the forward armory counters.
 - Walk forward using `WASD` toward the counter marked **01 / ARMORY**.
-- Five weapons are displayed: AK-47, M4A1, UMP-45, Tactical Pistol, and Sniper Rifle.
+- Five firearms are displayed on custom counters: Shotgun, AK-47, M4A1, UMP-45, and Tactical Pistol, with ammunition supply packs on the right.
+
+![Armory Weapons Gallery]({{ site.baseurl }}/assets/images/armory-weapon-racks.png)
+
 - Approach any weapon and press `E` to pick it up. Your secondary slot is automatically populated.
 
 ### 2. Calibrating Ballistics (Station 02)
