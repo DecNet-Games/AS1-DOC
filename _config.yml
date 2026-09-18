@@ -27,24 +27,13 @@ search:
 
 # Navigation structure
 nav_sort: nav_order
-nav_external_links:
-  - title: "DecNet Discord"
-    url: "https://discord.gg/P9wepz7NBW"
-    hide_icon: false
-  - title: "YouTube Channel"
-    url: "https://www.youtube.com/@decnetgames"
-    hide_icon: false
-  - title: "Asset Store"
-    url: "https://assetstore.unity.com/publishers/91438"
-    hide_icon: false
 
 # Heading anchors
 heading_anchors: true
 
 # Auxiliary Links (top right)
 aux_links:
-  "Unity Asset Store": "https://assetstore.unity.com/publishers/91438"
-  "Discord Support": "https://discord.gg/P9wepz7NBW"
+  "GitHub Repository": "https://github.com/DecNet-Games/AS1-DOC"
 
 # Back to top link
 back_to_top: true

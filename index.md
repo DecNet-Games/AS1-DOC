@@ -12,9 +12,9 @@ permalink: /
 Production-grade hybrid first-person and third-person shooter framework engineered for high-throughput mobile, desktop, and console titles.
 {: .fs-6 .text-grey-dk-000 }
 
-[Asset Store Package](https://assetstore.unity.com/publishers/91438){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Read Documentation]({{ site.baseurl }}/docs/getting-started/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Join Discord Community](https://discord.gg/P9wepz7NBW){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Getting Started]({{ site.baseurl }}/docs/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Tool Suite Hub]({{ site.baseurl }}/docs/editor-suite/){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Public C# API]({{ site.baseurl }}/docs/api-reference/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -64,8 +64,8 @@ graph TD
     end
 ```
 
-### In-Engine Production Overview
-![Sector 07 Proving Grounds]({{ site.baseurl }}/assets/images/sector07-hero.png)
+### In-Engine Gameplay Preview
+![In-Engine Gameplay View]({{ site.baseurl }}/assets/images/sector07-hero.png)
 
 ---
 
@@ -95,7 +95,7 @@ graph TD
 
 ## Quick Navigation
 
-- [Installation & Asset Store Exclusivity]({{ site.baseurl }}/docs/getting-started/installation/) ? Unity version compatibility and package setup.
+- [Installation & Licensing]({{ site.baseurl }}/docs/getting-started/installation/) ? Unity version compatibility and package setup.
 - [5-Minute Quick Start]({{ site.baseurl }}/docs/getting-started/quick-start/) ? Booting into Sector 07 and verifying controls.
 - [AS1 Tool Suite]({{ site.baseurl }}/docs/editor-suite/) ? Complete manual for Project Doctor, Weapon Creator Pro, and AI Creator Pro.
 - [Public C# API Reference]({{ site.baseurl }}/docs/api-reference/) ? In-depth method signatures and architectural patterns.

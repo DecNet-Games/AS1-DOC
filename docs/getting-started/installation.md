@@ -9,7 +9,7 @@ nav_order: 1
 
 > [!IMPORTANT]
 > **Commercial Asset Store Exclusivity**:
-> **AS1 - Ultimate Shooter Pack (PRO)** is a commercial asset sold exclusively on the [official Unity Asset Store](https://assetstore.unity.com/publishers/91438). The source code and binary assets are protected under the standard Unity Asset Store End User License Agreement (EULA).
+> **AS1 - Ultimate Shooter Pack (PRO)** is a commercial asset sold exclusively on the official Unity Asset Store by DecNet Games. The source code and binary assets are protected under the standard Unity Asset Store End User License Agreement (EULA).
 > 
 > **This GitHub repository (`DecNet-Games/AS1-DOC`) is strictly for hosting documentation, issue tracking, and community discussions. It does NOT contain the commercial asset package or downloadable binaries.**
 
@@ -29,7 +29,7 @@ nav_order: 1
 ## Step-by-Step Package Import
 
 ### 1. Purchase & Add to My Assets
-Visit the [Unity Asset Store](https://assetstore.unity.com/publishers/91438), acquire the **AS1 - Ultimate Shooter Pack**, and ensure the purchase is bound to your Unity Organization account.
+Acquire the **AS1 - Ultimate Shooter Pack** from DecNet Games on the official Unity Asset Store, and ensure the purchase is bound to your Unity Organization account.
 
 ### 2. Open Package Manager in Unity
 1. Open your target Unity project.
