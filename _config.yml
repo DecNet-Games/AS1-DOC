@@ -1,0 +1,64 @@
+﻿# Jekyll configuration for Just the Docs
+title: "AS1 Shooter System"
+description: "Production-Ready Hybrid FPS/TPS Framework & Next-Gen Tooling Engine for Unity."
+theme: "just-the-docs"
+remote_theme: "just-the-docs/just-the-docs"
+
+url: "https://decnet-games.github.io"
+baseurl: "/AS1-DOC"
+
+# Color scheme
+color_scheme: "dark"
+
+# Search configuration
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  rel_url: true
+  button: false
+
+# Navigation structure
+nav_sort: nav_order
+nav_external_links:
+  - title: "DecNet Discord"
+    url: "https://discord.gg/P9wepz7NBW"
+    hide_icon: false
+  - title: "YouTube Channel"
+    url: "https://www.youtube.com/@decnetgames"
+    hide_icon: false
+  - title: "Asset Store"
+    url: "https://assetstore.unity.com/publishers/91438"
+    hide_icon: false
+
+# Heading anchors
+heading_anchors: true
+
+# Auxiliary Links (top right)
+aux_links:
+  "Unity Asset Store": "https://assetstore.unity.com/publishers/91438"
+  "Discord Support": "https://discord.gg/P9wepz7NBW"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer content
+footer_content: "Copyright &copy; 2026 DecNet Games. AS1 - Ultimate Shooter Pack (PRO). All rights reserved."
+
+# Callouts configuration
+callouts:
+  note:
+    title: Note
+    color: purple
+  tip:
+    title: Pro Tip
+    color: green
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: blue
