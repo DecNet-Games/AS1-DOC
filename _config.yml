@@ -1,8 +1,13 @@
-﻿# Jekyll configuration for Just the Docs
+﻿# Jekyll configuration for Just the Docs on GitHub Pages
 title: "AS1 Shooter System"
 description: "Production-Ready Hybrid FPS/TPS Framework & Next-Gen Tooling Engine for Unity."
-theme: "just-the-docs"
-remote_theme: "just-the-docs/just-the-docs"
+
+# Using remote_theme for GitHub Pages compatibility
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 url: "https://decnet-games.github.io"
 baseurl: "/AS1-DOC"
