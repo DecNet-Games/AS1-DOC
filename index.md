@@ -6,10 +6,11 @@ description: "High-performance hybrid FPS/TPS framework and modular shooter arch
 permalink: /
 ---
 
-# AS1 ? Advanced Shooter System
+# AS1 — Advanced Shooter System (TPS + FPS)
 {: .fs-9 }
 
-Production-grade hybrid first-person and third-person shooter framework engineered for high-throughput mobile, desktop, and console titles.
+**Third & First Person • PC & Android**  
+Production-grade hybrid first-person and third-person shooter framework & next-gen authoring tooling engine for Unity.
 {: .fs-6 .text-grey-dk-000 }
 
 [Getting Started]({{ site.baseurl }}/docs/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

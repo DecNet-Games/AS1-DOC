@@ -1,6 +1,6 @@
-﻿# Jekyll configuration for Just the Docs on GitHub Pages
-title: "AS1 Shooter System"
-description: "Production-Ready Hybrid FPS/TPS Framework & Next-Gen Tooling Engine for Unity."
+# Jekyll configuration for Just the Docs on GitHub Pages
+title: "AS1"
+description: "Advanced Shooter System (TPS + FPS) — Third & First Person • PC & Android"
 
 # Using remote_theme for GitHub Pages compatibility
 remote_theme: just-the-docs/just-the-docs
@@ -40,7 +40,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer content
-footer_content: "Copyright &copy; 2026 DecNet Games. AS1 - Ultimate Shooter Pack (PRO). All rights reserved."
+footer_content: "Copyright &copy; 2026 Decnet Games. AS1 — Advanced Shooter System. All rights reserved."
 
 # Callouts configuration
 callouts:

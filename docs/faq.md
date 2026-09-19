@@ -15,7 +15,7 @@ permalink: /docs/faq/
 ---
 
 ### Q: Why is this GitHub repository empty of Unity code?
-**A:** **AS1 - Ultimate Shooter Pack (PRO)** is a commercial product sold exclusively on the official Unity Asset Store by DecNet Games. Under the standard Unity Asset Store EULA, raw asset binaries and source files cannot be distributed publicly on GitHub. This repository exists solely to host technical documentation, tutorials, and community issue tracking.
+**A:** **AS1 ? Advanced Shooter System (TPS + FPS)** is a commercial product sold exclusively on the official Unity Asset Store by Decnet Games. Under the standard Unity Asset Store EULA, raw asset binaries and source files cannot be distributed publicly on GitHub. This repository exists solely to host technical documentation, tutorials, and community issue tracking.
 
 ---
 
@@ -40,4 +40,4 @@ permalink: /docs/faq/
 ---
 
 ### Q: Where can I get official support or request features?
-**A:** Reach out through DecNet Games official channels or our YouTube channel: [https://www.youtube.com/@decnetgames](https://www.youtube.com/@decnetgames).
+**A:** Reach out through Decnet Games official channels or our YouTube channel: [https://www.youtube.com/@decnetgames](https://www.youtube.com/@decnetgames).
